@@ -2,6 +2,7 @@
 
 - ✨ Atualmente atuo como estagiária na área de desenvolvimento de Software. 
 - 🌱 Estou me aprimorando como front estudando JavaScript e VueJs.
+- 🔬 Formada em Análise e Desenvolvimento de Sistemas. 
 - 🎈 Pronomes: ela/dela
 - 🏆 Inglês Avançado
 - ⚡ Fun fact: Eu sou fascinada por vídeo-games, então também estudo e pratico para me tornar uma game dev.
