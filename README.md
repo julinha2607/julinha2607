@@ -1,4 +1,4 @@
-## Oie, pessoal! Sou a Julia Moraes.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+folks!+My+name+is+Julia+Moraes.)](https://git.io/typing-svg)
 
 - ✨ Atualmente atuo como estagiária na área de desenvolvimento de Software. 
 - 🌱 Estou me aprimorando como front estudando JavaScript e VueJs.
