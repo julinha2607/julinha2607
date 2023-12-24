@@ -3,8 +3,6 @@
 My name is Julia, I'm a Junior Software developer. I hold a degree in Systems Development & Analysis and just finished a nearly two year internship at a multinational working as a Development Intern. 
 I serve as a Front End Developer and also as a Game Developer. I had the opportunity to work in both scenarios and continue to study to further advance my skills. 
 
-- 📫 soujuliamoraes@gmail.com
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
