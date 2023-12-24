@@ -1,11 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+folks!+My+name+is+Julia+Moraes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F693F7&random=false&width=455&lines=Hello%2C+folks!+)](https://git.io/typing-svg)
 
-- ✨ Atualmente atuo como estagiária na área de desenvolvimento de Software. 
-- 🌱 Estou me aprimorando como front estudando JavaScript e VueJs.
-- 🔬 Formada em Análise e Desenvolvimento de Sistemas. 
-- 🎈 Pronomes: ela/dela
-- 🏆 Inglês Avançado
-- ⚡ Fun fact: Eu sou fascinada por vídeo-games, então também estudo e pratico para me tornar uma game dev.
+My name is Julia, I'm a Junior Software developer. I hold a degree in Systems Development & Analysis and just finished a nearly two year internship at a multinational working as a Development Intern. 
+I serve as a Front End Developer and also as a Game Developer. I had the opportunity to work in both scenarios and continue to study to further advance my skills. 
+
 - 📫 soujuliamoraes@gmail.com
 
 <div style="display: inline_block"><br>
