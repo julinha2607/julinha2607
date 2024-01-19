@@ -16,6 +16,6 @@ My passion is to always turn lines of code into amazing experiences.
   ##
 
 <div>
-<a href="https://www.linkedin.com/in/moraes-julia" target="_blank"><img src="https://github.com/julinha2607/julinha2607/assets/99223979/e21d0964-86da-4d7c-b7da-66d7905846c4" target="_blank"></a> 
-<a href = "mailto:soujuliamoraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/moraes-julia" target="_blank"><img src="https://github.com/julinha2607/julinha2607/assets/99223979/5ef89c4f-28aa-42ae-b557-475eebe55371" target="_blank"></a> 
+<a href = "mailto:soujuliamoraes@gmail.com"><img src="https://github.com/julinha2607/julinha2607/assets/99223979/37ee99f2-c0cf-489b-9675-6fede9c46569" target="_blank"></a>
 </div>
