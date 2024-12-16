@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F693F7&random=false&width=455&lines=Hello%2C+folks!+)](https://git.io/typing-svg)
 
-My name is Julia, I'm a Junior Software developer. I just finished a nearly two year internship at a multinational working as a Development Intern, serving both as a Front End Developer and as a Game Developer. I was recently called back to work in the company as a Front End Developer, but working towards becoming a Fullstack software developer. 
+My name is Julia, I'm a Junior Software developer. I just finished a nearly two year internship at a multinational working as a Development Intern, serving both as a Front End Developer and as a Game Developer. I was recently called back to work at the same company as a Front End Developer, but working towards becoming a Fullstack software developer. 
 I hold a degree in Systems Development & Analysis and I'm also a Pixel Art enthusiast, so the goal is to practice my art while applying to UI. 
 
 My passion is to always turn lines of code into amazing experiences. 
