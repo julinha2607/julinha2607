@@ -56,9 +56,6 @@ Now I'm back, aiming higher — working toward becoming a **Fullstack Software D
   <a href="https://www.linkedin.com/in/moraes-julia/" target="_blank">
     <img src="https://64.media.tumblr.com/e6ba7fc3e15ec768d33fd6e8657ee62b/tumblr_inline_pj4m0bLMHn1s4y2n7_100.gif" width="40" title="LinkedIn pixel" />
   </a>
-  <a href="https://github.com/julinha2607" target="_blank">
-    <img src="https://github.com/sudhanshutosh/pixel-icons/blob/main/github.gif?raw=true" width="40" title="GitHub pixel" />
-  </a>
   <a href="mailto:soujuliamoraes@gmail.com.com" target="_blank">
     <img src="https://i.imgur.com/wWzX9uB.gif" width="40" title="Email pixel" />
   </a>
