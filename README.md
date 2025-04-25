@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you here! 👋 </h1>
 
 <p align="center">
-  🧠 Junior Software Developer • 🎮 Game Dev Enthusiast • 🌐 Future Fullstack Engineer
+  🧠 Junior Software Developer • 🌐 Future Data Engineer
 </p>
 
 <p align="center">
