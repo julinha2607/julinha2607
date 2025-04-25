@@ -52,4 +52,8 @@ Now I'm back, aiming higher — working toward becoming a **Fullstack Software D
 
 ## 📬 Let's Connect
 
+<div>
+ <a href="https://www.linkedin.com/in/moraes-julia" target="_blank"><img src="https://github.com/julinha2607/julinha2607/assets/99223979/5ef89c4f-28aa-42ae-b557-475eebe55371" target="_blank"></a> 
+ <a href = "mailto:soujuliamoraes@gmail.com"><img src="https://github.com/julinha2607/julinha2607/assets/99223979/bd6053e8-7054-4e65-afa5-bc03fadc92b6" target="_blank"></a>
+ </div>
 
