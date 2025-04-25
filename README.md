@@ -14,12 +14,11 @@
 
 ## 👩‍💻 About Me
 
-Hey folks! I'm Julia, a Junior Software Developer from Brazil 🇧🇷  
-I recently completed a nearly two-year internship at a multinational company, where I worked both as a **Front End Developer** and a **Game Developer**.
+Hey folks! I'm Julia, a Junior Software Developer from Brazil 🇧🇷
+I started my journey with a strong focus on Front-End during a two-year internship at a multinational company.
+Now, I'm expanding my expertise to become a Fullstack Developer, while diving deeper into Data Engineering and Software Architecture — areas that empower me to build scalable, elegant systems from the ground up.
 
-Now I'm back, aiming higher — working toward becoming a **Fullstack Software Developer**, and diving deeper into **Data Engineering** and **Software Architecture**.
-
-💡 I hold a degree in Systems Development & Analysis, and I'm all about creating fun, elegant and efficient solutions.
+💡 I hold a degree in Systems Development & Analysis and love creating elegant and efficient solutions that blend creativity with solid architecture.
 
 ---
 
