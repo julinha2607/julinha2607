@@ -1,4 +1,4 @@
-<h1 align="center">Hello folks! 👋 </h1>
+<h1 align="center">Nice to see you here! 👋 </h1>
 
 <p align="center">
   🧠 Junior Software Developer • 🎮 Game Dev Enthusiast • 🌐 Future Fullstack Engineer
