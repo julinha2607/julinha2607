@@ -46,8 +46,7 @@ Why? Because I believe that mastering both the user experience and the data back
 
 ## ☁️ Currently Learning
 
-- 📦 Docker & DevOps  
-- 🧩 Clean Architecture  
+- 📦 Software Engineering & DevOps  
 
 ---
 
