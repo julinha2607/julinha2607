@@ -39,7 +39,6 @@ Today, I'm growing as a Fullstack Developer, building complete web applications 
 ## 📌 Projects You Can Explore
 
 - 🔗 [URL Shortener](https://github.com/julinha2607/URL-Shortener) – Flask + JS mini project  
-- 📊 *coming soon:* TaskBoard Pro - Kanban Board
 
 ---
 
