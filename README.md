@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End-React%20%7C%20JS%20%7C%20HTML%2FCSS-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/Back--End-Python%20%7C%20Flask-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-DevOps%20%7C%20Software%20Architecture-purple?style=flat-square" />
 </p>
 
 ---
