@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you here! 👋 </h1>
 
 <p align="center">
-  🧠 Junior Software Developer • 🌐 Future Data Engineer
+  🧠 Junior FullStack Developer 
 </p>
 
 <p align="center">
@@ -17,9 +17,13 @@
 Hey folks! I'm Julia, a Junior Software Developer from Brazil 🇧🇷
 I kicked off my career with a nearly two-year internship at a multinational company, where I worked as both a Front-End and Game Developer, creating playful and user-focused experiences.
 
-Today, I'm growing as a Fullstack Developer, building complete web applications from scratch — while also diving deeper into Data Engineering and Software Architecture.
+Today, I'm growing as a Fullstack Developer, building complete web applications from scratch — while also diving deeper into Computer Science in general in college. 
 
-💡 I hold a degree in Systems Development & Analysis, and I'm passionate about creating fun, elegant, and efficient solutions that scale.
+💡 I already hold a degree in Systems Development & Analysis, and I'm passionate about creating fun, elegant, and efficient solutions that scale.
+Fun fact: I'm a huge astronomy nerd, so there's a chance you're gonna bump into some astronomy/coding projects.
+
+The projects that I upload are all going to have lots of comments since that's how I like to learn and study, also I find it helpful when I'm checking other people's projects. 
+Hope you like it =)
 
 ---
 
@@ -27,24 +31,13 @@ Today, I'm growing as a Fullstack Developer, building complete web applications 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="nextjs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
-
----
-
-## 📌 Projects You Can Explore
-
-- 🔗 [URL Shortener](https://github.com/julinha2607/URL-Shortener) – Flask + JS mini project  
-
----
-
-## ☁️ Currently Learning
-
-- 📦 Software Engineering & DevOps  
 
 ---
 
