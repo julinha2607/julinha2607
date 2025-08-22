@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End-React%20%7C%20JS%20%7C%20HTML%2FCSS-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Back--End-Python%20%7C%20Flask-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Back--End-Python%20%7C%20Flask%20%7C%20FastAPI-blue?style=flat-square" />
 </p>
 
 ---
