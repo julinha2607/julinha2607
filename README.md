@@ -19,7 +19,6 @@ I kicked off my career with a nearly two-year internship at a multinational comp
 Today, I'm growing as a Fullstack Developer, building complete web applications from scratch — while also diving deeper into Computer Science in general in college. 
 
 💡 I already hold a degree in Systems Development & Analysis, and I'm passionate about creating fun, elegant, and efficient solutions that scale.
-Fun fact: I'm a huge astronomy nerd, so there's a chance you're gonna bump into some astronomy/coding projects.
 
 The projects that I upload are all going to have lots of comments since that's how I like to learn and study, also I find it helpful when I'm checking other people's projects. 
 Hope you like it =)
