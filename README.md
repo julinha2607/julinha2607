@@ -4,11 +4,6 @@
   🧠 Technical Artist
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Front--End-React%20%7C%20JS%20%7C%20HTML%2FCSS-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Back--End-Python%20%7C%20Flask%20%7C%20FastAPI-blue?style=flat-square" />
-</p>
-
 ---
 Hey folks! I'm Julia, a Software Developer from Brazil 🇧🇷
 I kicked off my career with a nearly two-year internship at a multinational company, where I explored everything from Front-End and Back-End Development to Game Development, working on projects for global brands.
