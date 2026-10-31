@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you here! 👋 </h1>
 
 <p align="center">
-  🧠 Junior FullStack Developer 
+  🧠 Technical Artist
 </p>
 
 <p align="center">
@@ -10,32 +10,11 @@
 </p>
 
 ---
-
-## 👩‍💻 About Me
-
-Hey folks! I'm Julia, a Junior Software Developer from Brazil 🇧🇷
-I kicked off my career with a nearly two-year internship at a multinational company, where I worked as both a Front-End and Game Developer, creating playful and user-focused experiences.
-
-Today, I'm growing as a Fullstack Developer, building complete web applications from scratch — while also diving deeper into Computer Science in general in college. 
-
-💡 I already hold a degree in Systems Development & Analysis, and I'm passionate about creating fun, elegant, and efficient solutions that scale.
-
-The projects that I upload are all going to have lots of comments since that's how I like to learn and study, also I find it helpful when I'm checking other people's projects. 
-Hope you like it =)
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="nextjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
+Hey folks! I'm Julia, a Software Developer from Brazil 🇧🇷
+I kicked off my career with a nearly two-year internship at a multinational company, where I explored everything from Front-End and Back-End Development to Game Development, working on projects for global brands.
+Since then, I've gained experience with web applications, REST APIs, databases, Python, cloud technologies, and AI-powered solutions. I hold a degree in Systems Analysis and Development, and I love finding creative ways to solve problems through code.
+🎨 These days, I'm taking my career in an exciting new direction: Creative Technology! I'm exploring 3D, procedural art, creative coding, motion design, and real-time graphics, with the goal of bringing software engineering and visual creativity together.
+💡 I'm passionate about building things that are not only functional and efficient, but also engaging, imaginative, and fun!
 
 ---
 
